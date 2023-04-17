@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 .menu ul{
-    background-color: #CCC;
+    background-color: rgb(7, 250, 209);
     margin: 0;
     padding: 2em;
 }
@@ -25,8 +25,8 @@ header, section, footer{
     max-width: 600px;
 }
 .button{
-    background-color: blue;
-    color: white;
+    background-color: rgb(0, 247, 255);
+    color: rgb(7, 7, 7);
     padding: 1em;
     margin: 1em 0;
     display: inline-block;
